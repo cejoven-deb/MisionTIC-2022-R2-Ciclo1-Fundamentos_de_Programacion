@@ -102,3 +102,33 @@ Materiales de estudio del Ciclo 1 de la Ruta 2 de MisiónTIC 2022
     * [Algoritmo Dijkstra](clase12/dijkstra.ipynb)
   * [Funciones map(), filter(), reduce(), zip(), enumerate()](clase12/funciones_sobre_colecciones.ipynb)
 * [Ejercicios para resolver en clase](clase12/ejercicios.md)
+
+### Clase 13
+* Conceptos del lenguaje Python
+  * [NumPy](clase13/numpy.ipynb)
+    * [Juego Triqui](clase13/triqui.py)
+    * [Ejercicios para resolver en clase](clase13/ejercicios_numpy.ipynb)
+  * [Pandas](clase13/pandas.ipynb)
+
+## Unidad 5 - Visualización y manipulación de archivos
+### Clase 14
+* Conceptos del lenguaje Python
+  * [Gráficos con matplotlib](clase14/graficas_matplotlib.ipynb)
+  * [Gráficas con DataFrames](clase14/graficas_pandas.ipynb)
+  * [Gráficas desde archivo](clase14/graficas_dataframes.ipynb)
+  * [Manejo de fechas](clase14/manejo_fechas.ipynb)
+  * [Otras manipulaciones de DataFrames](clase14/otros.ipynb)
+
+### Clase 15
+* Conceptos del lenguaje Python
+  * Manejo de archivos
+    * [Texto](clase15/archivos/texto.ipynb)
+    * [JSON](clase15/archivos/json.ipynb)
+    * [Pandas](clase15/archivos/pandas.ipynb)
+  * Aplicación CRUD completa
+    * [Patrón de Arquitectura MVC](clase15/crud/Arquitectura_MVC.md)
+    * [Modelo](clase15/crud/modelo.py)
+    * [Vista](clase15/crud/vista.py)
+    * [Controlador](clase15/crud/controlador.py)
+    * [Archivo principal](clase15/crud/main.py) (Buena práctica de desarrollo)
+* [Taller para el desarrollo individual](clase15/taller.md)
